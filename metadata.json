@@ -1,0 +1,6 @@
+{
+  "name": "KINT Industrial Intelligence",
+  "description": "AI-supported industrial intelligence and decision workbench for Uganda's petroleum, energy, and minerals ecosystems.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
